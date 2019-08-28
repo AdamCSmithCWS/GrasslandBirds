@@ -1,2 +1,5 @@
 # GrasslandBirds
-code and data to explore spatial patterns in grassland bird declines. Species trajectories from the R-package bbsBayes using the GAM model-option. Species inclusion based on the species in the State of Canada's Birds, monitored by the BBS
+code and data to explore spatial patterns in grassland bird declines. Species trajectories from the R-package bbsBayes using the GAM model-option. Species inclusion based on the species in the State of Canada's Birds, monitored by the BBS.
+This repository contains all the code and data required to re-create the slides in my Grassland Bird Symposium talk at the 2019, SCO-SOC meeting in Quebec City.
+
+I'm providing these data and code to make them available to anyone working on understanding population declines in grassland birds, and in hopes that exploring these results will stimulate a collaboration to help better understand and fully describe these spatial, taxonomic, and temporal patterns. Please don't hesitate to contact me for more information or with questions. This is very-much a work in progress and there are many opportunities to diver deeper into these data and to expand this analysis to include other species (e.g., not everyone agrees on our definition of "grassland bird").
