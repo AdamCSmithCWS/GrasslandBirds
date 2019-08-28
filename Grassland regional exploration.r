@@ -239,7 +239,7 @@ for(rr in unique(alldataout[which(alldataout$type == "strat.name"),"region"])){
 }
   
   
-  stprovfacet = read.csv(paste0(basedir,"/strata/BBB_StateProvCWS_facet_grid2.csv"),stringsAsFactors = F)
+  stprovfacet = read.csv(paste0(basedir,"/BBB_StateProvCWS_facet_grid2.csv"),stringsAsFactors = F)
   #stprovfacet = stprovfacet[-which(stprovfacet$code == "HI"),]
   ### trajectory plots by prov state
   stprovfacet[nrow(stprovfacet)+1,"row"] = 1
